@@ -13,24 +13,20 @@ Unfortunately my profile is messed around internet, so I decided to create a not
 
 After all, I decided to rollback my name to Klaider Animekist.
 
-## Work
+## Youtube channels
 
-_LIST OF WORK_
+- 1. https://www.youtube.com/user/KlaiderKlaiAnimekist (All videos are mine, however I dropped this channel to a friend in 2013 ending and this friend renamed the channel to _otakugamer Jr_ and changed the description, however it was originally named _Klaider Klai_.)
+- 2. https://www.youtube.com/channel/UC04JsmJHgIINnp_4_nMpC5w/videos
+- 3. https://www.youtube.com/channel/UCHiMxBBjbv8m7yYUZf1JQ1g/videos
+- 4. https://www.youtube.com/c/KlaiderAnimekist/videos
+
+## Work
 
 > **NOTE**<br>
 > I might be missing to quote some things.<br>
 
 - 1. (2013) Frame-by-frame video editing through Windows Movie Maker, Microsoft Paint and Advanced X Video Converter. The work is not publicly visible.
 - 2. (2013) Frame-by-frame animation through Windows Movie Maker and Microsoft Paint. Eventually, in 2014, my sister helped me learn to use Adobe Photoshop and later I even got to use Adobe Flash Professional to draw assets.
-
-YouTube channels:
-- 1. https://www.youtube.com/user/KlaiderKlaiAnimekist (All videos are mine, however I dropped this channel to a friend in 2013 ending and this friend renamed the channel to _otakugamer Jr_ and changed the description, however it was originally named _Klaider Klai_.)
-- 2. https://www.youtube.com/channel/UC04JsmJHgIINnp_4_nMpC5w/videos
-- 3. https://www.youtube.com/channel/UCHiMxBBjbv8m7yYUZf1JQ1g/videos
-- 4. https://www.youtube.com/c/KlaiderAnimekist/videos
-
-Work (cont.):
-
 - 3. (2013-2014) Transformice digital drawings, generally attending requests. Over 100+ arts. https://github.com/Klaider/Arts. All the modification dates are correct (while the creation dates are incorrect). If you want garantee, here's an [art of mine](https://www.deviantart.com/hydroper/art/Transformice-Drawing-to-Luanpow-478237180) at DeviantArt and a bit of animation [at Facebook](https://www.facebook.com/juwp801/posts/794490747235694).
 - 4. (2014) Used Wix, used UOL XPG to host a very basic HTML I wrote, tried to work with Flash Professional. Used Audacity to produce a few assets and Construct 2 (I used to watch Deskomplika which teached Construct 2 and PHP).
 - 5. (2015) Made a forum in PHP (using PDO), using MySQL, XAMPP for local use and sharing it publicly with Hostinger panel.
