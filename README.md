@@ -15,7 +15,7 @@ After all, I decided to rollback my name to Klaider Animekist.
 
 ## Youtube channels
 
-- 1. https://www.youtube.com/user/KlaiderKlaiAnimekist (All videos are mine, however I dropped this channel to a friend in 2013 ending and this friend renamed the channel to _otakugamer Jr_ and changed the description, however it was originally named _Klaider Klai_.)
+- 1. https://www.youtube.com/user/KlaiderKlaiAnimekist/videos (All videos are mine, however I dropped this channel to a friend in 2013 ending and this friend renamed the channel to _otakugamer Jr_ and changed the description, however it was originally named _Klaider Klai_.)
 - 2. https://www.youtube.com/channel/UC04JsmJHgIINnp_4_nMpC5w/videos
 - 3. https://www.youtube.com/channel/UCHiMxBBjbv8m7yYUZf1JQ1g/videos
 - 4. https://www.youtube.com/c/KlaiderAnimekist/videos
