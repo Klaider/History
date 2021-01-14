@@ -1,6 +1,6 @@
 # Klaider Animekist History
 
-Unfortunately my profile is messed around internet, so I decided to create a note to comprove what I did.
+My profile is split and sparse to find on the internet, so I decided to create a note to comprove what I did.
 
 ## Nicknames
 
