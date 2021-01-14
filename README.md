@@ -39,6 +39,7 @@ Work (cont.):
 - 8. (2016) General HTML5 experiments. Tried to use TypeScript ([link](https://stackoverflow.com/questions/41040024/destructuring-assignment-with-private-properties-at-class-results-in-never-used/41041371?)) and experimented a bit of Haxe on the terminal ([link](https://stackoverflow.com/questions/40961673/how-to-import-packages-in-nested-directories-haxe?)).
 - 9. (2016) Experimenting with C++. [Link.](https://stackoverflow.com/q/46037260)
 - 10. (2017) Started to create parser for an ECMAScript dialect, [DoveScript](https://github.com/dovescript/DeveloperNetwork#demonstration).
-- 11. (2018) Parsers re-created several times.
-- 12. (2019) Completed the first symbol solver. Got re-creating sources (Semantic Data Model, parsing and symbol solving) several times.
-- 13. (2020-2021) Continued re-creating sources. Finally, the latest compiler sources are [here](https://github.com/dovescript/Compiler).
+- 11. (2017) Wasted time creating components for Transformice Lua Modules.
+- 12. (2018) Parsers re-created several times.
+- 13. (2019) Completed the first symbol solver. Got re-creating sources (Semantic Data Model, parsing and symbol solving) several times.
+- 14. (2020-2021) Continued re-creating sources. Finally, the latest compiler sources are [here](https://github.com/dovescript/Compiler).
