@@ -38,7 +38,7 @@ Work (cont.):
 - 7. (2015) Made fifth of a map editor. [Link](https://www.mediafire.com/file/7k723p60pbt74cq/MapEditors_by_KlaiderAnimekist.zip/file) (I uploaded them all at 2018, however there's guarantee one of them was uploaded in 2015, as seen at [this link](https://www.mediafire.com/file/chr41ct84pvcn4o/MapperQuery_by_KlaiderAnimekist.rar/file) or at [this link](https://atelier801.com/topic?f=6&t=810052).)
 - 8. (2016) HTML5 experiments such as with canvas, HTTP and a little platformer (not available anymore). Tried to use TypeScript ([link](https://stackoverflow.com/questions/41040024/destructuring-assignment-with-private-properties-at-class-results-in-never-used/41041371?) and [this thing that does not work](https://www.mediafire.com/file/rhg2mul606qm3w4/WaveOnline_by_KlaiderAnimekist.zip/file)) and experimented a bit of Haxe on the terminal ([link](https://stackoverflow.com/questions/40961673/how-to-import-packages-in-nested-directories-haxe?)).
 - 9. (2016) Experimenting with C++. [Link.](https://stackoverflow.com/q/46037260)
-- 10. (2017) Started to create parser for an ECMAScript dialect, [DoveScript](https://github.com/dovescript/DeveloperNetwork#demonstration).
+- 10. (2017) Started to create parser for an ECMAScript dialect, [DoveScript](https://github.com/dovescript/DeveloperNetwork#demonstration). The following is a related moment: [UnicodeGC](https://stackoverflow.com/q/43150498).
 - 11. (2017) Wasted time creating components for Transformice Lua Modules.
 - 12. (2018) Parsers re-created several times.
 - 13. (2019) Completed the first symbol solver. Got re-creating sources (Semantic Data Model, parsing and symbol solving) several times.
