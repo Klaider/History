@@ -4,7 +4,9 @@ My profile is split and sparse to find on the internet, so I decided to create a
 
 ## Nicknames
 
-- 1. Caiolopelopes (when I requested my brother to create me an Orkut account, he gave me that name, although in reality I am Matheus).
+- 1. Caiolopelopes
+  - When I requested my brother to create me an Orkut account, he gave me that name, although in reality I am Matheus.
+  - My first Transformice account used that name: [url=https://atelier801.com/profile?pr=Caiolopelope]Caiolopelope[/url], registered in 2011.
 - 2. Klaider
 - 3. Recoyx
 - 4. Animex Kai
