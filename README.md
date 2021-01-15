@@ -6,7 +6,7 @@ My profile is split and sparse to find on the internet, so I decided to create a
 
 - 1. Caiolopelopes
   - When I requested my brother to create me an Orkut account, he gave me that name, although in reality I am Matheus.
-  - My first Transformice account used that name: [Caiolopelope](https://atelier801.com/profile?pr=Caiolopelope) ([thread example](https://atelier801.com/topic?f=6&t=690610&p=1#m6;)), registered in 2011. Note that most of my art galleries in Atelier 801 have been deleted.
+  - My first Transformice account used that name: [Caiolopelope](https://atelier801.com/profile?pr=Caiolopelope) ([thread example](https://atelier801.com/topic?f=6&t=690610&p=1)), registered in 2011. Note that most of my art galleries in Atelier 801 have been deleted.
 - 2. Klaider
 - 3. Recoyx
 - 4. Animex Kai
